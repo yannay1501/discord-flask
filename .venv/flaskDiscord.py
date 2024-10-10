@@ -81,7 +81,5 @@ def showLast30Messages():
     return last30Messages
 
 
-
-
 if __name__ == "__main__":
     app.run()
